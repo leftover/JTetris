@@ -1,2 +1,2 @@
 # JTetris
-Simple Tetris game written on Java
+A simple Tetris game written on Java
